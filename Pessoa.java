@@ -25,7 +25,6 @@ public abstract class Pessoa {
     public abstract void exibirDetalhes();
 
     private boolean validarEmail(String email) {
-        // Verifica se o email contém pelo menos um '@'
         return email != null && email.contains("@");
     }
 }
