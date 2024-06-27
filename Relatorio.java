@@ -53,6 +53,6 @@ public class Relatorio {
 
         for (Map.Entry<Participante, Integer> entry : frequenciaPorParticipante.entrySet()) {
             System.out.println("Participante: " + entry.getKey().getNome() + " - Frequência: " + entry.getValue());
-        }
-    }
+        }
+    }
 }
