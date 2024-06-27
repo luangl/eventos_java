@@ -54,5 +54,5 @@ Este projeto é um sistema de gerenciamento de eventos que permite a organizaç�
 
 ## Referências e Recursos
 - Documentação Oficial do Java
-- Guia de Boas Práticas de Programação
+- Principios do Clean Code
 - ChatGPT para assistência na implementação do projeto.
