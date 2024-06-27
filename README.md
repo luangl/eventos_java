@@ -40,7 +40,7 @@ Este projeto é um sistema de gerenciamento de eventos que permite a organizaç�
 ### Passos para Executar
 1. Clone o repositório para sua máquina local:
    ```sh
-   git clone https://github.com/seu-usuario/sistema-de-gerenciamento-de-eventos.git
+   git clone https://github.com/luangl/eventos_java.git
 2. Importe o projeto em sua IDE.
 3. Compile e execute a classe Main que contém o método main.
 4. Instruções Adicionais
