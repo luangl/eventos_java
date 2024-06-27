@@ -35,7 +35,7 @@ Este projeto é um sistema de gerenciamento de eventos que permite a organizaç�
 ## Como Executar o Projeto
 ### Requisitos
 - Java JDK 8 ou superior
-- IDE de sua preferência (Eclipse, IntelliJ, etc.)
+- IDE de sua preferência (Visual Studio, Eclipse, IntelliJ, etc.)
 
 ### Passos para Executar
 1. Clone o repositório para sua máquina local:
